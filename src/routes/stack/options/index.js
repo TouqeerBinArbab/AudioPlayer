@@ -1,4 +1,4 @@
 export const screenOptions = ({ navigation }) => ({
-    headerTransparent: false,
+    headerTransparent: true,
     title: '',
 })
